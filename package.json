@@ -1,6 +1,6 @@
 {
-  "name": "project01_number_guessing-game",
-  "version": "1.0.0",
+  "name": "atm-ash",
+  "version": "1.0.1",
   "description": "",
   "type": "module",
   "main": "index.js",
